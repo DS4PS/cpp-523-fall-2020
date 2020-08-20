@@ -227,13 +227,15 @@ summary( model.01 )
 
 ## Lab 01 
 
+**Due {{page.labs.lab-01}}**
+
 -----
 
 <a class="uk-button uk-button-default" href="../raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
 
 -----
 
-**Due {{page.labs.lab-01}}**
+
 
 The first lab is meant as a review of some important regression formulas to either shake out the cobwebs if you have covered this material before, or get everyone on the same page if it is new. It will review the following topics:
 
@@ -282,13 +284,15 @@ And submit via Canvas.
 
 ## Mini-Assessment 01
 
+**Open {{page.assessments.mini-assessment-01}}**
+
 <hr>
 
 <a class="uk-button uk-button-default" href="https://canvas.asu.edu/courses/67637/quizzes/448377">Start the Mini-Assessment</a>
 
 <hr> 
 
-**Opens Saturday, Closes Tues at Midnight (Aug 29 - Sept 1)**
+
 
 This mini-assessment consists of three multiple-choice questions. You have **30 minutes** to complete the assessment from the time you start the assessment. You can take it any time over the 4 days it is open.
 
@@ -392,6 +396,7 @@ When you are complete:
 
 ## Mini Assessment 02 
 
+**Open {{page.assessments.mini-assessment-02}}**
 
 This mini-assessment tests your understanding of the interpretation of [statistical significance using confidence intervals](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-05-program-impact.pdf).
 
@@ -505,6 +510,8 @@ When you are complete:
 
 
 ## Mini Assessment 03
+
+**Open {{page.assessments.mini-assessment-03}}**
 
 This mini-assessment tests your understanding of the differences between the two types of control variables (those correlated with the policy or intervention, i.e. classroom size and socio-economic status, and those that are uncorrelated with the policy but correlated with the outcome, i.e. teacher quality).
 
@@ -684,7 +691,8 @@ a1*B2
 
 ## Mini-Assessment 04
 
-<br>
+**Open {{page.assessments.mini-assessment-04}}**
+
 <br>
 
 This mini-assessment tests your understanding of the interpretation of the impact of control variables on statistical significance.
@@ -789,6 +797,10 @@ When you are complete:
 
 
 ## Mini-Assessment 05
+
+**Open {{page.assessments.mini-assessment-05}}**
+
+------
 
 This mini-assessment tests your understanding of the interpretation of dummy variables in regression models. 
 
@@ -945,16 +957,19 @@ When you are complete:
 
 ## Mini-Assessment 06
 
+**Open {{page.assessments.mini-assessment-06}}**
+
+-----
 
 This mini assessment covers material from the [Taxonomy of Controls](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf).
 
 And on Measurement Error. See the animated simulations below for examples of the effects of measurement error in the DV versus IVs. And see questions 3 and 4 on the review sheet for the same examples explained as Venn diagrams. 
 
-[Review Questions](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf)  
+[Review Questions](../raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf)  
 
 This mini assessment should give you an idea of the types of questions you might expect on the final exam. 
 
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/41574/quizzes/291349">Mini Assessment 05</a>
+<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Mini Assessment 05</a>
 
 **THE IMPACT OF MEASUREMENT ERROR**
 
