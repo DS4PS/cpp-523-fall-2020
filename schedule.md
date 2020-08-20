@@ -7,6 +7,7 @@ canvas:
 
 labs:
   lab01:  'Friday, August 29th' 
+  lab-02:  'Friday, August 29th'
   
 ---
 
@@ -42,7 +43,9 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 These courses are designed to be interactive, and a lot of learning occurs by practicing the technical jargon from the field and learning how to talk about data and models. 
 
-**{{lab01}}**
+**{{page.labs.lab01}}**
+
+{{page.labs.lab-02}}
 
 <br>
 
