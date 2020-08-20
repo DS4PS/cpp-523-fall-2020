@@ -3,7 +3,10 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/54984/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/67637/assignments'
+
+labs:
+  lab01:  'Friday, August 29th' 
   
 ---
 
@@ -39,6 +42,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 These courses are designed to be interactive, and a lot of learning occurs by practicing the technical jargon from the field and learning how to talk about data and models. 
 
+**{{lab01}}**
 
 <br>
 
@@ -192,7 +196,7 @@ Caffeine and Heart Rates based off of this [caffeine study](https://www.theodyss
 
 ```r
 # paste this code into R
-url <- "https://raw.githubusercontent.com/DS4PS/cpp-523-sum-2020/master/lectures/data/caffeine.csv"
+url <- "https://raw.githubusercontent.com/DS4PS/cpp-523-fall-2020/master/lectures/data/caffeine.csv"
 dat <- read.csv( url, stringsAsFactors=F ) 
 summary( dat )
 plot( dat$caffeine, dat$heart.rate )
@@ -211,11 +215,11 @@ summary( model.01 )
 
 -----
 
-<a class="uk-button uk-button-default" href="https://github.com/DS4PS/cpp-523-sum-2020/raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
+<a class="uk-button uk-button-default" href="../raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
 
 -----
 
-**Due Sat May 23**
+**Due Sat Aug 29th**
 
 The first lab is meant as a review of some important regression formulas to either shake out the cobwebs if you have covered this material before, or get everyone on the same page if it is new. It will review the following topics:
 
@@ -257,7 +261,7 @@ And submit via Canvas.
 
 -----
 
-<a class="uk-button uk-button-primary" href="https://canvas.asu.edu/courses/54984/assignments">Submit Lab-01</a> 
+<a class="uk-button uk-button-primary" href="{{page.canvas.assignment_url}}">Submit Lab-01</a> 
 
 -----
 
@@ -266,11 +270,11 @@ And submit via Canvas.
 
 <hr>
 
-<a class="uk-button uk-button-default" href="https://canvas.asu.edu/courses/54984/quizzes/360064">Start the Mini-Assessment</a>
+<a class="uk-button uk-button-default" href="https://canvas.asu.edu/courses/67637/quizzes/448377">Start the Mini-Assessment</a>
 
 <hr> 
 
-**Opens Saturday, Closes Tues at Midnight (May 23-26)**
+**Opens Saturday, Closes Tues at Midnight (Aug 29 - Sept 1)**
 
 This mini-assessment consists of three multiple-choice questions. You have **30 minutes** to complete the assessment from the time you start the assessment. You can take it any time over the 4 days it is open.
 
