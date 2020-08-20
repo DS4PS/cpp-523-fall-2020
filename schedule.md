@@ -196,13 +196,13 @@ Multiple Regression overview chapter [[pdf](../pubs/Multiple%20Regression.pdf)]
 
 ## Lecture 
 
-Is caffeine good for you? [ [link](https://www.hsph.harvard.edu/news/hsph-in-the-news/coffee-depression-women-ascherio-lucas/) ]
+Is caffeine good for you? [ [in the news](https://www.hsph.harvard.edu/news/hsph-in-the-news/coffee-depression-women-ascherio-lucas/) ]
 
 *Is caffeine a treatment in this study? How do we know caffeine is the cause of the outcomes we see in this study?*
 
 *Before we can understand causal impact we must first create a regression model that tells us about the RELATIONSHIP between caffeine intake and heart rate. We will then add nuance to our understanding of when the relationship can be interpretted as casual, and when it is simply correlational.*
 
-LECTURE: [ [Building a regression model](../lectures/caffeine.html) ]
+LECTURE: [ [BUILDING A REGRESSION MODEL](../lectures/caffeine.html) ]
 
 **Data Used in this Section**
 
@@ -254,7 +254,7 @@ The lecture notes needed for the lab are available on the course shell:
 
 And the first chapter from Lewis-Beck serves as a reference for specific formulas if needed:
 
-Lewis-Beck, C., & Lewis-Beck, M. (2015). Applied regression: An introduction (Vol. 22). Sage publications. [ [pdf](/pubs/Applied%20Regression%20Lewis-Beck.pdf) ]
+Lewis-Beck, C., & Lewis-Beck, M. (2015). Applied regression: An introduction (Vol. 22). Sage publications. [ [pdf](../pubs/Applied%20Regression%20Lewis-Beck.pdf) ]
 
 
 <hr>
@@ -298,7 +298,7 @@ This mini-assessment consists of three multiple-choice questions. You have **30 
 
 The assessment covers the definition of a regression line, and the concept of sums of squares from the first chapter:
 
-[Building a regression model](https://ds4ps.org/cpp-523-spr-2020/lectures/caffeine.html)
+[Building a regression model](../lectures/caffeine.html)
 
 This first assessment is not graded. All others are worth 2 points each.
 
