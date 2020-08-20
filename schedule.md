@@ -21,6 +21,9 @@ assessments:
   mini-assessment-05:  'Sat Sept 26 - Tues Sept 29'
   mini-assessment-06:  'Thurs Oct 01 - Tues Oct 06'
   
+final: 
+  exam-date:  'Sat Oct 3rd - Fri Oct 9th' 
+  
 ---
 
 <!--- 
@@ -1066,13 +1069,15 @@ Measurement Error in the IV:
 
 # Final Exam
 
-Dates coming soon.  
+**The exam is open {{page.final.exam-date}}.**
 
-The final exam is on Canvas. You have 4 hours to complete it once it is started.
+The final exam is on Canvas. You have 4 hours to complete it once it is started. 
+
+You are NOT allowed to pause and return. The 4 hour limit starts once you begin the exam.
 
 You are allowed to look back over your notes and use a calculator for help with math.
 
-You are NOT allowed to work together on the final exam. Do NOT discuss questions after you have take it.
+You are **NOT** allowed to work together on the final exam. Do **NOT** discuss questions after you have take it.
 
 <br>
 <br>
