@@ -41,7 +41,7 @@ textbooks:
 - title: 'Applied Regression: An Introduction'
   authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
   edition: 2015
-  link: '/pubs/Applied%20Regression%20Lewis-Beck.pdf'
+  link: '/cpp-523-fall-2020/pubs/Applied%20Regression%20Lewis-Beck.pdf'
   required: Required (follow link)
 - title: 'Impact Evaluation in Practice'
   authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
@@ -238,7 +238,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 **Course content** is hosted on this website. Lecture files, assignments and other course communications will be transmitted via this site and/or through the class email list. **All assignment submissions** will be made through the [Canvas shell](https://canvas.asu.edu). 
 
-Please post lab questions on the [Get Help](/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
+Please post lab questions on the [Get Help](/cpp-523-fall-2020/help/) page on this site, schedule individual office hours using the Calendly link provided above, and email the instructor directly instead of using the Canvas system. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either writer work or online discussion work, is between 5 and 10 work days.
 
@@ -271,7 +271,7 @@ Please note: the course instructor may from time to time adjust assigned reading
 * Unit 6 - Specification
 * Review for Final Exam
 
-Visit the [schedule page](/schedule/) for details. 
+Visit the [schedule page](/cpp-523-fall-2020/schedule/) for details. 
 
 <br>
 <br>
