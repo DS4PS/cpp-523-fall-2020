@@ -6,8 +6,20 @@ canvas:
   assignment_url: 'https://canvas.asu.edu/courses/67637/assignments'
 
 labs:
-  lab01:  'Friday, August 29th' 
-  lab-02:  'Friday, August 29th'
+  lab-01:  'Saturday, August 29th' 
+  lab-02:  'Saturday, September 5th'
+  lab-03:  'Saturday, September 12th'
+  lab-04:  'Saturday, September 19th'
+  lab-05:  'Saturday, September 26th'
+  lab-06:  'Saturday, October 3rd'
+  
+assessments:
+  mini-assessment-01:  'Sat Aug 29 - Tues Sept 01'
+  mini-assessment-02:  'Sat Sept 05 - Tues Sept 08'
+  mini-assessment-03:  'Sat Sept 12 - Tues Sept 15'
+  mini-assessment-04:  'Sat Sept 19 - Tues Sept 22'
+  mini-assessment-05:  'Sat Sept 26 - Tues Sept 29'
+  mini-assessment-06:  'Thurs Oct 01 - Tues Oct 06'
   
 ---
 
@@ -43,9 +55,8 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 These courses are designed to be interactive, and a lot of learning occurs by practicing the technical jargon from the field and learning how to talk about data and models. 
 
-**{{page.labs.lab01}}**
 
-{{page.labs.lab-02}}
+
 
 <br>
 
@@ -222,7 +233,7 @@ summary( model.01 )
 
 -----
 
-**Due Sat Aug 29th**
+**Due {{page.labs.lab-01}}**
 
 The first lab is meant as a review of some important regression formulas to either shake out the cobwebs if you have covered this material before, or get everyone on the same page if it is new. It will review the following topics:
 
@@ -357,8 +368,10 @@ You might find this summary of notation helpful [**pdf**](https://github.com/DS4
 
 ## Lab 02
 
+**Due {{page.labs.lab-02}}**
+
 <hr>
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-523-spr-2020/labs/lab-02-class-size-confidence-intervals.html">Lab-02 Instructions</a>
+<a class="uk-button uk-button-default" href="../labs/lab-02-class-size-confidence-intervals.html">Lab-02 Instructions</a>
 <hr>
 
 
@@ -466,9 +479,12 @@ Tufte, E. R. (1974). *Data analysis for politics and policy.* Prentice Hall. [CH
 
 ## Lab 03
 
+
+**Due {{page.labs.lab-03}}**
+
 <hr>
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-523-spr-2020/labs/lab-03-instructions.html">Lab-03 Instructions</a>
+<a class="uk-button uk-button-default" href="../labs/lab-03-instructions.html">Lab-03 Instructions</a>
 
 <hr>
 
@@ -575,15 +591,17 @@ Lecure Notes: **A Taxonomy of Control Variables** [ [pdf](https://github.com/DS4
 
 ## Lab 04
 
+**Due {{page.labs.lab-04}}**
+
 This lab examines the impact of omitted variable bias on our inferences. 
 
-[Omitted Variable Bias](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-07-omitted-variable-bias.pdf) 
+[Omitted Variable Bias](/raw/master/lectures/p-07-omitted-variable-bias.pdf) 
 
-[Example of How to Calculate Bias](https://ds4ps.org/cpp-523-spr-2020/lectures/walk-through/omitted-variable-bias-example.html)  [ [PDF](https://www.dropbox.com/s/10bl6z9rhbirp1t/omitted-variable-bias-example.pdf?dl=1) ]
+[Example of How to Calculate Bias](../lectures/walk-through/omitted-variable-bias-example.html)  [ [PDF](https://www.dropbox.com/s/10bl6z9rhbirp1t/omitted-variable-bias-example.pdf?dl=1) ]
 
 A lab solutions RMD template has been provided. Submit your knitted files via Canvas. 
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-523-spr-2020/labs/lab-04-instructions.html">Lab-04 Instructions</a>
+<a class="uk-button uk-button-default" href="../labs/lab-04-instructions.html">Lab-04 Instructions</a>
 
 When you are complete:
 
@@ -752,8 +770,10 @@ Once you have completed this section you will be able to run and interpret regre
 
 ## Lab 05 
 
+**Due {{page.labs.lab-05}}**
+
 <hr>
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-523-spr-2020/labs/lab-05-instructions.html">Lab-05 Instructions</a>
+<a class="uk-button uk-button-default" href="../labs/lab-05-instructions.html">Lab-05 Instructions</a>
 <hr>
 
 This lab examines tests your understanding of constructing groups and conducting hypothesis tests using dummy variables. 
@@ -911,10 +931,11 @@ For this lab you will run and interpret a quadratic regression and a logged regr
 
 ## Lab 06
 
+**Due {{page.labs.lab-06}}**
 
 This lab gives you a chance to practice non-linear regression models. 
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-523-spr-2020/labs/lab-06-instructions.html">Lab-06 Instructions</a>
+<a class="uk-button uk-button-default" href="../labs/lab-06-instructions.html">Lab-06 Instructions</a>
 
 When you are complete:
 
@@ -971,22 +992,22 @@ Please post questions on the discussion board if you are not sure of the correct
 
 ## Practice Exams
 
-[Exam Review with Solutions](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
+[Exam Review with Solutions](../raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
 
-[Practice Exam](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Practice%20Exam.pdf)  
+[Practice Exam](../raw/master/handouts/Practice%20Exam.pdf)  
 
 <br>
 
 ## Useful Summaries or Examples
 
-[Taxonomy of Control Variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf)  
+[Taxonomy of Control Variables](../raw/master/lectures/taxonomy-of-control-variables.pdf)  
 
-[Indirect Effects Example](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/indirect-effect-example.pdf)  
+[Indirect Effects Example](../raw/master/handouts/indirect-effect-example.pdf)  
 
 
 **The Seven Deadly Sins of Regression**
 
-Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
+Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf](../raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
 
 * Selection 
 * Omitted variable bias 
@@ -996,7 +1017,7 @@ Concise summary of the seven most common issues that will corrupt your regressio
 * Multi-collinearity 
 * Simultenaeity 
 
-Some longer notes: Seven Sins of Regression [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
+Some longer notes: Seven Sins of Regression [ [pdf](../raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
 
 <br>
 
