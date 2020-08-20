@@ -14,13 +14,13 @@ info:
  course_number: CPP 523 
  course_level: Graduate 
  course_website: 'https://canvas.asu.edu/courses/54984/'
- course_start_end_dates: May 18 to June 26, 2020 
+ course_start_end_dates: Aug 20th to Oct 9th, 2020 
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/293038379'
  review_sessions_when: TBD 
  review_sessions_where: 
- discussion_board_url: 'https://ds4ps.org/cpp-523-spr-2020/help/'
+ discussion_board_url: 'https://ds4ps.org/cpp-523-fall-2020/help/'
 
 instructor:
 -  name: David Schlinkert
@@ -41,12 +41,12 @@ textbooks:
 - title: 'Applied Regression: An Introduction'
   authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
   edition: 2015
-  link: https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/Applied%20Regression%20Lewis-Beck.pdf
+  link: '/pubs/Applied%20Regression%20Lewis-Beck.pdf'
   required: Required (follow link)
 - title: 'Impact Evaluation in Practice'
   authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
   edition: 2011
-  link: 'https://github.com/DS4PS/cpp-523-sum-2020/raw/master/pubs/Impact_Evaluation_in_Practice%20WB%20full%20text%20second%20edition.pdf'
+  link: 'https://github.com/DS4PS/cpp-523-fall-2020/raw/master/pubs/Impact_Evaluation_in_Practice%20WB%20full%20text%20second%20edition.pdf'
   required: Free online
 - title: 'Real Stats: Using Econometrics for Political Science and Public Policy'
   authors: 'Bailey, M. A.'
