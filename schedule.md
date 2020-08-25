@@ -234,7 +234,9 @@ summary( model.01 )
 
 -----
 
-<a class="uk-button uk-button-default" href="../raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
+<a class="uk-button uk-button-default" href="https://github.com/DS4PS/cpp-523-fall-2020/raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
+
+
 
 -----
 
