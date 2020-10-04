@@ -236,7 +236,7 @@ summary( model.01 )
 
 -----
 
-<a class="uk-button uk-button-default" href="https://github.com/DS4PS/cpp-523-fall-2020/raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
+<a class="uk-button uk-button-default" href="{{page.pdf-root-url}}/raw/master/labs/Lab-01-Regression-Review.docx">Lab-01 Instructions</a>
 
 
 
@@ -366,13 +366,13 @@ If we create 95% confidence intervals around these guesses, we can see that appr
 
 Please review the following lecture notes:
 
-* [Variance and Covariance](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-01-variance-covariance-slope.pdf)
-* [Partitioning the Variance of Y](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-02-partitioning-variance.pdf)
-* [Standard Errors](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-03-standard-errors.pdf)
-* [Confidence Intervals](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-04-confidence-intervals.pdf)
-* [Effect Size](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-05-program-impact.pdf)
+* [Variance and Covariance]({{page.pdf-root-url}}/raw/master/lectures/p-01-variance-covariance-slope.pdf)
+* [Partitioning the Variance of Y]({{page.pdf-root-url}}/raw/master/lectures/p-02-partitioning-variance.pdf)
+* [Standard Errors]({{page.pdf-root-url}}/raw/master/lectures/p-03-standard-errors.pdf)
+* [Confidence Intervals]({{page.pdf-root-url}}/raw/master/lectures/p-04-confidence-intervals.pdf)
+* [Effect Size]({{page.pdf-root-url}}/raw/master/lectures/p-05-program-impact.pdf)
 
-You might find this summary of notation helpful [**pdf**](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Common-Statistics-Notation.pdf)
+You might find this summary of notation helpful [**pdf**]({{page.pdf-root-url}}/raw/master/handouts/Common-Statistics-Notation.pdf)
 
 
 
@@ -390,8 +390,8 @@ This lab introduces a case study on education policy that we will be using for t
 
 You will need the formula for confidence intervals, and the concept of visual hypothesis-testing with coefficient plots. 
 
-* [Confidence Intervals](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-04-confidence-intervals.pdf)
-* [Effect Size (+hypothesis tests)](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-05-program-impact.pdf)
+* [Confidence Intervals]({{page.pdf-root-url}}/raw/master/lectures/p-04-confidence-intervals.pdf)
+* [Effect Size (+hypothesis tests)]({{page.pdf-root-url}}/raw/master/lectures/p-05-program-impact.pdf)
 
 
 When you are complete:
@@ -405,7 +405,7 @@ When you are complete:
 
 **Open {{page.assessments.mini-assessment-02}}**
 
-This mini-assessment tests your understanding of the interpretation of [statistical significance using confidence intervals](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-05-program-impact.pdf).
+This mini-assessment tests your understanding of the interpretation of [statistical significance using confidence intervals]({{page.pdf-root-url}}/raw/master/lectures/p-05-program-impact.pdf).
 
 
 ![](assets/img/ci-and-significance.png)
@@ -452,7 +452,7 @@ In the lecture notes X1 will always be the **policy variable**, or intervention 
 
 **Recommended Reading:** 
 
-Skim: [Multiple Regression](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/pubs/Multiple%20Regression.pdf)
+Skim: [Multiple Regression]({{page.pdf-root-url}}/raw/master/pubs/Multiple%20Regression.pdf)
 
 Baily CH5: Section 5.1-Multivariate OLS
 
@@ -466,7 +466,7 @@ Bailey, M. A. (2016). Real Stats: Using Econometrics for Political Science and P
 
 ## Lecture 
 
-[Lecture 06 on Control Variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-06-control-variables.pdf)
+[Lecture 06 on Control Variables]({{page.pdf-root-url}}0/raw/master/lectures/p-06-control-variables.pdf)
 
 <br>
 
@@ -503,7 +503,7 @@ Tufte, E. R. (1974). *Data analysis for politics and policy.* Prentice Hall. [CH
 
 This lab introduces the important role of control variables in our models. They can be used to reduce standard errors of the model and thus increase model efficiency, or they can be used to to adjust slopes in the model. The lab draws on material from the lecture 06 notes. 
 
-* [Control Variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-06-control-variables.pdf)
+* [Control Variables]({{page.pdf-root-url}}/raw/master/lectures/p-06-control-variables.pdf)
 
 I have provided the code for the regression models and scatterplots. This lab focuses on interpretation of results. You do need to create an RMD document, and knit an HTML file to submit your results. 
 
@@ -524,11 +524,11 @@ This mini-assessment tests your understanding of the differences between the two
 
 ![](assets/img/two-types-of-controls.png)
 
-[Control Variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-06-control-variables.pdf)
+[Control Variables]({{page.pdf-root-url}}/raw/master/lectures/p-06-control-variables.pdf)
 
 These differences are summarized on some of the review notes for the final exam: 
 
-[Taxonomy of Control Variables](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf) 
+[Taxonomy of Control Variables]({{page.pdf-root-url}}/raw/master/lectures/taxonomy-of-control-variables.pdf) 
 
 <br>
 
@@ -584,9 +584,9 @@ The study in the article was commissioned because of anedcotal evidence of a str
 
 ## Lecture
 
-Lecture Notes: **Omitted Variable Bias** [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/p-07-omitted-variable-bias.pdf) ]  [ [example](https://ds4ps.org/cpp-523-spr-2020/lectures/walk-through/omitted-variable-bias-example.html) ]
+Lecture Notes: **Omitted Variable Bias** [ [pdf]({{page.pdf-root-url}}/raw/master/lectures/p-07-omitted-variable-bias.pdf) ]  [ [example](https://ds4ps.org/cpp-523-spr-2020/lectures/walk-through/omitted-variable-bias-example.html) ]
 
-Lecure Notes: **A Taxonomy of Control Variables** [ [pdf](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/taxonomy-of-control-variables.pdf) ]  
+Lecure Notes: **A Taxonomy of Control Variables** [ [pdf]({{page.pdf-root-url}}/raw/master/lectures/taxonomy-of-control-variables.pdf) ]  
 
 <br>
 
@@ -609,7 +609,7 @@ Lecure Notes: **A Taxonomy of Control Variables** [ [pdf](https://github.com/DS4
 
 This lab examines the impact of omitted variable bias on our inferences. 
 
-[Omitted Variable Bias](/raw/master/lectures/p-07-omitted-variable-bias.pdf) 
+[Omitted Variable Bias]({{page.pdf-root-url}}/raw/master/lectures/p-07-omitted-variable-bias.pdf) 
 
 [Example of How to Calculate Bias](../lectures/walk-through/omitted-variable-bias-example.html)  [ [PDF](https://www.dropbox.com/s/10bl6z9rhbirp1t/omitted-variable-bias-example.pdf?dl=1) ]
 
@@ -766,14 +766,14 @@ Once you have completed this section you will be able to run and interpret regre
 
 [Hypothesis-Testing With Groups Part-01](https://ds4ps.org/cpp-523-spr-2020/lectures/dummy-variables.html) 
 
-[Hypothesis-Testing With Groups Part-02](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/lectures/hypotheses-tests-with-dummy-variables.pdf) 
+[Hypothesis-Testing With Groups Part-02]({{page.pdf-root-url}}/raw/master/lectures/hypotheses-tests-with-dummy-variables.pdf) 
 
 
 **Lab Preview** 
 
-[Practice Questions](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression%20with%20Interaction%20Effects.pdf)
+[Practice Questions]({{page.pdf-root-url}}/raw/master/handouts/Regression%20with%20Interaction%20Effects.pdf)
 
-[SOLUTIONS](https://github.com/DS4PS/cpp-523-spr-2020/raw/master/handouts/Regression-with-Interaction-Effects-SOLUTIONS.pdf)
+[SOLUTIONS]({{page.pdf-root-url}}/raw/master/handouts/Regression-with-Interaction-Effects-SOLUTIONS.pdf)
 
 <br>
 <br>
@@ -1029,7 +1029,7 @@ Please post questions on the discussion board if you are not sure of the correct
 
 **The Seven Deadly Sins of Regression**
 
-Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf]({{pdf-root-url}}/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
+Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf]({{page.pdf-root-url}}/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
 
 * Selection 
 * Omitted variable bias 
