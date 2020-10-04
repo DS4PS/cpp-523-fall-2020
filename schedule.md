@@ -972,7 +972,7 @@ This mini assessment covers material from the [Taxonomy of Controls](https://git
 
 And on Measurement Error. See the animated simulations below for examples of the effects of measurement error in the DV versus IVs. And see questions 3 and 4 on the review sheet for the same examples explained as Venn diagrams. 
 
-[Review Questions](../raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf)  
+[Review Questions]({{page.pdf-root-url}}/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf)  
 
 This mini assessment should give you an idea of the types of questions you might expect on the final exam. 
 
@@ -1014,17 +1014,17 @@ Please post questions on the discussion board if you are not sure of the correct
 
 ## Practice Exams
 
-[Exam Review with Solutions]({{pdf-root-url}}/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
+[Exam Review with Solutions]({{page.pdf-root-url}}/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
 
-[Practice Exam]({{pdf-root-url}}/raw/master/handouts/Practice%20Exam.pdf)  
+[Practice Exam]({{page.pdf-root-url}}/raw/master/handouts/Practice%20Exam.pdf)  
 
 <br>
 
 ## Useful Summaries or Examples
 
-[Taxonomy of Control Variables]({{pdf-root-url}}/raw/master/lectures/taxonomy-of-control-variables.pdf)  
+[Taxonomy of Control Variables]({{page.pdf-root-url}}/raw/master/lectures/taxonomy-of-control-variables.pdf)  
 
-[Indirect Effects Example]({{pdf-root-url}}/raw/master/handouts/indirect-effect-example.pdf)  
+[Indirect Effects Example]({{page.pdf-root-url}}/raw/master/handouts/indirect-effect-example.pdf)  
 
 
 **The Seven Deadly Sins of Regression**
@@ -1039,7 +1039,7 @@ Concise summary of the seven most common issues that will corrupt your regressio
 * Multi-collinearity 
 * Simultenaeity 
 
-Some longer notes: Seven Sins of Regression [ [pdf]({{pdf-root-url}}/raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
+Some longer notes: Seven Sins of Regression [ [pdf]({{page.pdf-root-url}}/raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
 
 <br>
 
