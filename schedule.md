@@ -23,7 +23,9 @@ assessments:
   
 final: 
   exam-date:  'Sat Oct 3rd - Fri Oct 9th' 
-  
+
+pdf-root-url:
+  "https://github.com/DS4PS/cpp-523-fall-2020"
 ---
 
 <!--- 
@@ -1012,22 +1014,22 @@ Please post questions on the discussion board if you are not sure of the correct
 
 ## Practice Exams
 
-[Exam Review with Solutions](../raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
+[Exam Review with Solutions]({{pdf-root-url}}/raw/master/handouts/Review%20Material%20for%20the%20Final%20Exam%20-%20SOLUTIONS.pdf) 
 
-[Practice Exam](../raw/master/handouts/Practice%20Exam.pdf)  
+[Practice Exam]({{pdf-root-url}}/raw/master/handouts/Practice%20Exam.pdf)  
 
 <br>
 
 ## Useful Summaries or Examples
 
-[Taxonomy of Control Variables](../raw/master/lectures/taxonomy-of-control-variables.pdf)  
+[Taxonomy of Control Variables]({{pdf-root-url}}/raw/master/lectures/taxonomy-of-control-variables.pdf)  
 
-[Indirect Effects Example](../raw/master/handouts/indirect-effect-example.pdf)  
+[Indirect Effects Example]({{pdf-root-url}}/raw/master/handouts/indirect-effect-example.pdf)  
 
 
 **The Seven Deadly Sins of Regression**
 
-Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf](../raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
+Concise summary of the seven most common issues that will corrupt your regression inferences [ [pdf]({{pdf-root-url}}/raw/master/handouts/Seven-Sins-of-Regression-Analysis.pdf) ]  
 
 * Selection 
 * Omitted variable bias 
@@ -1037,7 +1039,7 @@ Concise summary of the seven most common issues that will corrupt your regressio
 * Multi-collinearity 
 * Simultenaeity 
 
-Some longer notes: Seven Sins of Regression [ [pdf](../raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
+Some longer notes: Seven Sins of Regression [ [pdf]({{pdf-root-url}}/raw/master/lectures/p-10-seven-sins-of-regression.pdf) ] 
 
 <br>
 
