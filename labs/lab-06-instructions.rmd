@@ -192,16 +192,18 @@ plot( log(d2$REVENUE), log(d2$SALARY), bty="n", pch=19, col=gray(0.5,0.2), cex=1
 abline( lm( log(d2$SALARY) ~ log(d2$REVENUE) ), col="darkorange", lwd=3 )
 
 points( mean(log(d2$REVENUE)), mean(log(d2$SALARY)), pch=19, col="darkorange", cex=2 )
-points( log(d2$REVENUE[c(1446,1681)]), log(d2$SALARY[c(1446,1681)]),
+points( c(8,8), c(12,6),
          cex=3, col="steelblue", lwd=2 )
-points( log(d2$REVENUE[c(1446,1681)]), log(d2$SALARY[c(1446,1681)]),
+points( c(8,8), c(12,6),
          cex=1.5, col="steelblue", pch=19 )
-text( log(d2$REVENUE[c(1446,1681)]), log(d2$SALARY[c(1446,1681)]), c("A","B"), 
+text( c(8,8), c(12,6), c("A","B"), 
       pos=4, offset=1.2, col="steelblue", cex=2  )
 ```
 
 
 ![](figures/outliers.png)
+
+*The image may differ slightly because it's based on a random sample of 2,000 points to reduce data density so the visualization is not cluttered.* 
 
 #### Q1. What is the likely impact of the outlier "A" on the regression line?
 
